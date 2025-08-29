@@ -31,25 +31,25 @@ If you do make something fun and are willing to share it, please [send me a pict
 
 ### Charcoal
 
-![charcoal crop](gopher-shirt-charcoal-preview.png)
+![charcoal crop](png/gopher-shirt-charcoal-preview.png)
 
 ### Yellow
 
-![yellow crop](gopher-shirt-yellow-preview.png)
+![yellow crop](png/gopher-shirt-yellow-preview.png)
 
 ### Purple
 
-![purple crop](gopher-shirt-purple-preview.png)
+![purple crop](png/gopher-shirt-purple-preview.png)
 
 ### Teal
 
-![teal crop](gopher-shirt-teal-preview.png)
+![teal crop](png/gopher-shirt-teal-preview.png)
 
 ### Pink
 
-![pink crop](gopher-shirt-pink-preview.png)
+![pink crop](png/gopher-shirt-pink-preview.png)
 
 ### Orange (Happy Gopher Halloween!)
 
-![orange crop](gopher-shirt-orange-preview.png)
+![orange crop](png/gopher-shirt-orange-preview.png)
 
