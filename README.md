@@ -1,6 +1,6 @@
 ## Gopher Hawaiian Shirts
 
-In 2023, I worked with Renee French to design Go gopher-themed Hawaiian shirts.
+In 2023, I worked with Renee French to design and print Go gopher-themed Hawaiian shirts.
 (For more about the Go gopher, see [this blog post](https://go.dev/blog/gopher)
 or [Renee's amazing GopherCon 2016 talk](https://www.youtube.com/watch?v=4rw_B4yY69k).)
 
