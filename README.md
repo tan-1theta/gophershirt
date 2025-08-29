@@ -1,6 +1,9 @@
 ## Gopher Hawaiian Shirts
 
-In 2023, I worked with Renee French to design gopher-themed Hawaiian shirts.
+In 2023, I worked with Renee French to design Go gopher-themed Hawaiian shirts.
+(For more about the Go gopher, see [this blog post](https://go.dev/blog/gopher)
+or [Renee's amazing GopherCon 2016 talk](https://www.youtube.com/watch?v=4rw_B4yY69k).)
+
 I printed samples in a variety of background colors using two different Etsy sellers,
 and later I worked with a vendor to print shirts with a charcoal background color
 for the Go team. You may have seen me wearing those colored shirts at Go conferences
@@ -23,6 +26,8 @@ The instructions I sent both sellers were (replace $URL):
 
 One seller printed the image at a bit more 400 DPI, and one at a bit less than 200 DPI.
 (That's why my yellow shirt has large gophers on it.) They both look great though.
+
+If you do make something fun and are willing to share it, please [send me a picture](mailto:rsc@go.dev). Thanks!
 
 ### Charcoal
 
